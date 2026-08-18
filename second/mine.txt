@@ -20,3 +20,6 @@ For stashing we will not add the changes right now.
 Lets take our learning one step ahead
 
 Time to learn git rebase
+
+Hope I find it easy
+
