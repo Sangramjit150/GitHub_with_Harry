@@ -4,3 +4,10 @@ Lets understand stashing in git.
 Lets make the necessary changes.
 
 It helps stashing the changes temporarily so that we can focus on the emergency.
+
+Time to learn git tags.
+Tags are also important.
+They are used to mark a specific commit.
+There are two types of tags.
+Annotated tags
+Lightweight tags
