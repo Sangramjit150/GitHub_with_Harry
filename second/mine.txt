@@ -5,3 +5,5 @@ Now lets understand merge conflicts
 Now the main conflict will happen.
 
 This is done.
+
+We will continue with stashing for the time being
