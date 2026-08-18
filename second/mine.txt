@@ -23,3 +23,5 @@ Time to learn git rebase
 
 Hope I find it easy
 
+I am in the rebase branch right now and will make the required changes.
+
