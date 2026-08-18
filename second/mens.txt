@@ -1,7 +1,6 @@
 Lets understand stashing in git.
-<<<<<<< Updated upstream
+
 
 Lets make the necessary changes.
-=======
+
 It helps stashing the changes temporarily so that we can focus on the emergency.
->>>>>>> Stashed changes
