@@ -1,1 +1,3 @@
 I am learning git Branching
+Now lets understand merge conflicts
+
