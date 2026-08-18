@@ -7,6 +7,16 @@ Now the main conflict will happen.
 This is done.
 
 
+
 We will continue with stashing for the time being
 
 For stashing we will not add the changes right now
+
+
+We will continue with stashing for the time being
+
+For stashing we will not add the changes right now.
+
+Lets take our learning one step ahead
+
+Time to learn git rebase
