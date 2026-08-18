@@ -1,1 +1,2 @@
 I am learning git Branching
+Now the main conflict will happen.
