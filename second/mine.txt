@@ -6,9 +6,7 @@ Now the main conflict will happen.
 
 This is done.
 
-<<<<<<< Updated upstream
-We will continue with stashing for the time being
-=======
-For stashing we will not add the changes right now.
 
->>>>>>> Stashed changes
+We will continue with stashing for the time being
+
+For stashing we will not add the changes right now
