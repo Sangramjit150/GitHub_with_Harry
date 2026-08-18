@@ -11,3 +11,6 @@ They are used to mark a specific commit.
 There are two types of tags.
 Annotated tags
 Lightweight tags
+
+Now lets see git rebase
+
